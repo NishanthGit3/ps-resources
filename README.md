@@ -1,1 +1,1 @@
-# ps-resources
+# PS-Resources
