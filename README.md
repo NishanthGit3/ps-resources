@@ -54,5 +54,5 @@ Tips:
 
 Viva:  
 [Wheatstone bridge question](https://postimg.cc/18vVWbHN)  
-From this question, between what two points current will not flow?  
-They will change the number of resistor and their values in this question.
+From this question, between what two points current will not flow.  
+Same question with different number of resistors and resistor values will be asked in the assessment.
