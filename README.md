@@ -5,7 +5,7 @@
 - [Digital Electronics](#digital-electronics-levels)
 
 ## Analog Electronics Levels:
-- [AE-Level 1A]
+- [AE-Level 1A](#ae-level-1a)
 - [AE-Level 1B]
 - [AE-Level 1C]
 
@@ -24,7 +24,7 @@ Important Topics:
 5. P = VI
 6. V = IR
 
-Question asked in the Assessment:
+Question asked in the Assessment:  
 They will give you input voltage, LED's colour, and current rating of LED. Find the minimum resistance needed to be used in the circuit so that the LED wont be damaged.  
   
 Tips:
