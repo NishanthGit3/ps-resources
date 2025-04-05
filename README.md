@@ -3,6 +3,7 @@
 ## Skills:
 - [Analog Electronics](#analog-electronics-levels)
 - [Digital Electronics](#digital-electronics-levels)
+- [Aptitude](#aptitude-levels)
 
 ## Analog Electronics Levels:
 - [AE-Level 1A](#ae-level-1a)
@@ -13,6 +14,9 @@
 - [DE-Level 1A]
 - [DE-Level 1B]
 - [DE-Level 1C]
+
+  ## Aptitude Levels:
+  - [AP-All]
 
 ## Analog Electronics:
 ### AE-Level 1A:
@@ -56,3 +60,10 @@ Viva:
 [Wheatstone bridge question](https://postimg.cc/18vVWbHN)  
 From this question, between what two points current will not flow.  
 Same question with different number of resistors and resistor values will be asked in the assessment.
+
+### AP-All:
+Watch all the given videos for that particular level and go through these example questions
+[Example questions](https://www.indiabix.com/aptitude/questions-and-answers/)
+
+Additional links:
+- https://www.careerride.com/online-aptitude-test.aspx
