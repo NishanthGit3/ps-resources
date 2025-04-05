@@ -15,8 +15,8 @@
 - [DE-Level 1B]
 - [DE-Level 1C]
 
-  ## Aptitude Levels:
-  - [AP-All](ap-all)
+## Aptitude Levels:
+- [AP-All](ap-all)
 
 ## Analog Electronics:
 ### AE-Level 1A:
