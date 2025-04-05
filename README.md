@@ -62,7 +62,7 @@ From this question, between what two points current will not flow.
 Same question with different number of resistors and resistor values will be asked in the assessment.
 
 ### AP-All:
-Watch all the given videos for that particular level and go through these example questions
+Watch all the given videos for that particular level and go through these example questions.  
 [Example questions](https://www.indiabix.com/aptitude/questions-and-answers/)
 
 Additional links:
