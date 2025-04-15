@@ -1,5 +1,4 @@
-# PS-Resources  
-Note: This is a work in progress project, with very little contributors. If you're willing to contribute, feel free to submit a PR.  
+# PS-Resources
 
 ## Skills:
 - [Analog Electronics](#analog-electronics-levels)
@@ -22,12 +21,12 @@ Note: This is a work in progress project, with very little contributors. If you'
 
 ## C Programming Levels:  
 - [C-All](#c-all)
-- [C-Level 1]
-- [C-Level 2]
-- [C-Level 3]
+- [C-Level 1](#c-level-1)
+- [C-Level 2](#c-level-2)
+- [C-Level 3](#c-level-3)
 - [C-Level 4](#c-level-4)
-- [C-Level 5]
-- [C-Level 6]
+- [C-Level 5](#c-level-5)
+- [C-Level 6](#c-level-6)
 
 ## Analog Electronics:
 ### AE-Level 1A:
@@ -81,19 +80,32 @@ Additional links:
 
 ## C Programming:
 ### C-All:
-Links: [C Programming for begineers](https://youtu.be/fmSnLiAv-zc?feature=shared)(in tamil)
+Links:
+- [C Programming for beginners](https://youtube.com/playlist?list=PLhP5RsB7fhE3JWGm72JF7KoXbJmhLXlxB&si=TV-OouOdcRHFRE_v)(in tamil)
+- [C Programming totorial for beginners](https://youtu.be/87SH2Cn0s9A?si=72hnEzjpOpkmOeSg) (in english)
+
+Materials: 
+- [Introduction to C](https://github.com/NishanthGit3/ps-resources/blob/f1ead5dd038e3d34e4ea5eb5b2213b3ad5a70477/resources/Numbering%20System%20and%20Introduction%20to%20C.pdf)
+- [Operators](https://github.com/NishanthGit3/ps-resources/blob/654535805a2abd463bcf123403ce6ff3f822ef8c/resources/Operators.pdf)
+- [Conditional Statements](https://github.com/NishanthGit3/ps-resources/blob/654535805a2abd463bcf123403ce6ff3f822ef8c/resources/Type%20Casting%20and%20Conditional%20Statement.pdf)
 
 ### C-Level 1:  
-Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/blob/308556069b7e7377a39de318982f3825e117ab5c/resources/LEVEL%204(QNS).pdf)
+Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/blob/f1ead5dd038e3d34e4ea5eb5b2213b3ad5a70477/resources/Level%201%20(if%20else).docx)
 
 ### C-Level 2:  
-Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
+Question Bank: 
+- [pdf](https://github.com/NishanthGit3/ps-resources/blob/f1ead5dd038e3d34e4ea5eb5b2213b3ad5a70477/resources/LEVEL%202.pdf)
+- [Loops](https://github.com/NishanthGit3/ps-resources/blob/f1ead5dd038e3d34e4ea5eb5b2213b3ad5a70477/resources/Loops.pdf)
+               
 
 ### C-Level 3:  
-Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
+Question Bank: 
+- [pdf](https://github.com/NishanthGit3/ps-resources/blob/4a83b4400079a69f061aeaf1615adb946ef9fad9/resources/Arrays.pdf)
+- [pdf](https://github.com/NishanthGit3/ps-resources/blob/4a83b4400079a69f061aeaf1615adb946ef9fad9/resources/Level%203%20(Arrays).pdf)
+- [pdf](https://github.com/NishanthGit3/ps-resources/blob/4a83b4400079a69f061aeaf1615adb946ef9fad9/resources/Level%203.pdf)
 
 ### C-Level 4:  
 Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/blob/308556069b7e7377a39de318982f3825e117ab5c/resources/LEVEL%204(QNS).pdf)
 
 ### C-Level 5:  
-Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
+Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/blob/4a83b4400079a69f061aeaf1615adb946ef9fad9/resources/LEVEL%205.pdf)
