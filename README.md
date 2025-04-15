@@ -100,9 +100,9 @@ Question Bank:
 
 ### C-Level 3:  
 Question Bank: 
-- [pdf](https://github.com/NishanthGit3/ps-resources/blob/4a83b4400079a69f061aeaf1615adb946ef9fad9/resources/Arrays.pdf)
-- [pdf](https://github.com/NishanthGit3/ps-resources/blob/4a83b4400079a69f061aeaf1615adb946ef9fad9/resources/Level%203%20(Arrays).pdf)
-- [pdf](https://github.com/NishanthGit3/ps-resources/blob/4a83b4400079a69f061aeaf1615adb946ef9fad9/resources/Level%203.pdf)
+- [pdf1](https://github.com/NishanthGit3/ps-resources/blob/4a83b4400079a69f061aeaf1615adb946ef9fad9/resources/Arrays.pdf)
+- [pdf2](https://github.com/NishanthGit3/ps-resources/blob/4a83b4400079a69f061aeaf1615adb946ef9fad9/resources/Level%203%20(Arrays).pdf)
+- [pdf3](https://github.com/NishanthGit3/ps-resources/blob/4a83b4400079a69f061aeaf1615adb946ef9fad9/resources/Level%203.pdf)
 
 ### C-Level 4:  
 Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/blob/308556069b7e7377a39de318982f3825e117ab5c/resources/LEVEL%204(QNS).pdf)
