@@ -81,8 +81,8 @@ Additional links:
 ## C Programming:
 ### C-All:
 Links:
-- [C Programming for beginners](https://youtube.com/playlist?list=PLhP5RsB7fhE3JWGm72JF7KoXbJmhLXlxB&si=TV-OouOdcRHFRE_v)(in tamil)
-- [C Programming totorial for beginners](https://youtu.be/87SH2Cn0s9A?si=72hnEzjpOpkmOeSg) (in english)
+- [C Programming for beginners](https://youtube.com/playlist?list=PLhP5RsB7fhE3JWGm72JF7KoXbJmhLXlxB&si=TV-OouOdcRHFRE_v) (in tamil)
+- [C Programming tutorial for beginners](https://youtu.be/87SH2Cn0s9A?si=72hnEzjpOpkmOeSg) (in english)
 
 Materials: 
 - [Introduction to C](https://github.com/NishanthGit3/ps-resources/blob/f1ead5dd038e3d34e4ea5eb5b2213b3ad5a70477/resources/Numbering%20System%20and%20Introduction%20to%20C.pdf)
