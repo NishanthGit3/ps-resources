@@ -24,6 +24,8 @@
 - [C-Level 2]
 - [C-Level 3]
 - [C-Level 4](#c-level-4)
+- [C-Level 5]
+- [C-Level 6]
 
 ## Analog Electronics:
 ### AE-Level 1A:
@@ -76,5 +78,20 @@ Additional links:
 - https://www.careerride.com/online-aptitude-test.aspx
 
 ## C Programming:
+### C - All:
+Links: [C Programming for begineers](https://youtu.be/fmSnLiAv-zc?feature=shared)
+
+### C-Level 1:  
+Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
+
+### C-Level 2:  
+Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
+
+### C-Level 3:  
+Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
+
 ### C-Level 4:  
-Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/blob/5532f586c7ece507c638ead1b3e7d73eae35f567/resources/LEVEL%204(QNS).pdf)
+Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
+
+### C-Level 5:  
+Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
