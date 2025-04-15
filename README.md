@@ -78,11 +78,11 @@ Additional links:
 - https://www.careerride.com/online-aptitude-test.aspx
 
 ## C Programming:
-### C - All:
+### C-All:
 Links: [C Programming for begineers](https://youtu.be/fmSnLiAv-zc?feature=shared)
 
 ### C-Level 1:  
-Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
+Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/blob/308556069b7e7377a39de318982f3825e117ab5c/resources/LEVEL%204(QNS).pdf)
 
 ### C-Level 2:  
 Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
