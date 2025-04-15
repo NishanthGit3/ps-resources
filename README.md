@@ -77,4 +77,4 @@ Additional links:
 
 ## C Programming:
 ### C-Level 4:  
-Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
+Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/blob/5532f586c7ece507c638ead1b3e7d73eae35f567/resources/LEVEL%204(QNS).pdf)
