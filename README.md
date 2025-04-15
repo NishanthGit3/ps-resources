@@ -76,5 +76,6 @@ Additional links:
 - https://www.careerride.com/online-aptitude-test.aspx
 
 ## C Programming:
-### Level 4:
-[refer resources](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
+### Level 4:  
+Question Bank:  
+[pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
