@@ -20,10 +20,10 @@
 - [AP-All](#ap-all)
 
 ## C Programming Levels:
-- [C Level 1]
-- [C Level 2]
-- [C Level 3]
-- [C Level 4](#level-4)
+- [C-Level 1]
+- [C-Level 2]
+- [C-Level 3]
+- [C-Level 4](#c-level-4)
 
 ## Analog Electronics:
 ### AE-Level 1A:
@@ -76,5 +76,5 @@ Additional links:
 - https://www.careerride.com/online-aptitude-test.aspx
 
 ## C Programming:
-### Level 4:  
+### C-Level 4:  
 Question Bank: [pdf](https://github.com/NishanthGit3/ps-resources/tree/1ff3d8e25d1979302a38a7164f6b5707a73a7fcb/resources)
