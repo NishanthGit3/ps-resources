@@ -1,5 +1,5 @@
 # PS-Resources  
-Note: This is a work in progress project, with very little contributors. If you're willing to contribute, feel free to submit a PR.  
+Note: This is a work in progress project, with very little contributors. If you're willing to contribute, feel free to submit a pull request.  
 
 ## Skills:
 - [Analog Electronics](#analog-electronics-levels)
