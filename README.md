@@ -77,7 +77,8 @@ Watch all the given videos for that particular level and go through these exampl
 [Example questions](https://www.indiabix.com/aptitude/questions-and-answers/)
 
 Additional links:
-- https://www.careerride.com/online-aptitude-test.aspx
+- https://www.careerride.com/online-aptitude-test.aspx  
+- https://www.placementpreparation.io/quantitative-aptitude
 
 ## C Programming:
 ### C-All:
